@@ -8,4 +8,3 @@ A web application based on Python framework **Django** , that brings together fa
 * A user friendly platform that generates market opportunity for **farmers and industry buyers**.
 * Unlimited access to global market from anywhere at anytime.
 
-![Index image](/Screenshot(3).png)
