@@ -7,3 +7,6 @@ A web application based on Python framework **Django** , that brings together fa
 * FarmEasy provides a full solution that operates throughout the entire **Agro Industry** supply chain.
 * A user friendly platform that generates market opportunity for **farmers and industry buyers**.
 * Unlimited access to global market from anywhere at anytime.
+
+**BELOW ARE SOME VISUAL INSIHTS OF PRODUCT**
+![Index image](/Screenshot(3).png)
